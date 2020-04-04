@@ -51,7 +51,11 @@ Verify on http://localhost:8000/api/tasks
 Verify on http://localhost:4200
 ```
 
-
-
+### Ending points
+```
+http://localhost:8000/api/tasks GET - return JSON nodes of tasks
+http://localhost:8000/api/tasks POST - {task : '[string]'} - create a task
+http://localhost:8000/api/tasks/{id} DELETE - delete a task
+```
 
 
