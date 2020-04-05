@@ -1,5 +1,5 @@
 # Mend Family Challenging Code
-
+<p align="center"><img src="ScreenShot.png"></p>
 # Summary
 ```
 The main target was developing a full stack web application, 
