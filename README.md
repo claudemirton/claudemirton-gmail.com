@@ -1,4 +1,4 @@
-<p align="center"><img src="ScreenShotAngularLaravel.png"></p>
+<p align="center"><img src="ScreenshotAngularLaravel.png"></p>
 
 # Mend Family Challenging Code
 
