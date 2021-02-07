@@ -1,6 +1,6 @@
 <p align="center"><img src="ScreenshotAngularLaravel.png"></p>
 
-# Mend Family Challenging Code
+# Single Page Application (PHP Laravel + Angular Plus)
 
 # Summary
 ```
