@@ -1,12 +1,12 @@
-<p align="center"><img src="ScreenShot.png"></p>
+<p align="center"><img src="ScreenShotAngularLaravel.png"></p>
 
 # Mend Family Challenging Code
 
 # Summary
 ```
 The main target was developing a full stack web application, 
-with a responsive frontend, dinamically updated (AJAX) 
-connecting a RESTful layer backend based on HTTP Services
+with a responsive frontend, dinamically updated connecting a 
+RESTful layer backend based on HTTP Services
 
 ```
 
@@ -31,14 +31,14 @@ connecting a RESTful layer backend based on HTTP Services
 ### Database - MySQL
 ```
 1. mysql -uroot -p
-2. CREATE DATABASE mendapp;
-3. CREATE USER 'mendapp'@'localhost' identified by 'mendapp';
-4. GRANT ALL on mendapp.* to 'mendapp'@'localhost';
+2. CREATE DATABASE tasklist;
+3. CREATE USER 'tasklist'@'localhost' identified WITH mysql_native_password by 'tasklist';
+4. GRANT ALL on tasklist.* to 'tasklist'@'localhost';
 5. quit
 ```
 ### PHP/Laravel
 ```
-1. Go to folder backend\mendapp 
+1. Go to folder backend/laravel 
 2. Execute 'composer install'
 3. Execute 'php artisan migrate'
 4. Execute 'php artisan serve'
@@ -47,7 +47,7 @@ Verify on http://localhost:8000/api/tasks
 ```
 ### Frontend instructions
 ```
-1. Go to folder frontend\mendappfront
+1. Go to folder frontend/angular
 2. Execute 'npm install'
 3. Execute 'ng serve -o'
 
