@@ -4,8 +4,7 @@
 
 # Summary
 ```
-The main target was developing a full stack web application, 
-with a responsive frontend, dinamically updated connecting a 
+The main target was developing a Single Page Application with a responsive frontend dinamically updated connecting a 
 RESTful layer backend based on HTTP Services
 
 ```
